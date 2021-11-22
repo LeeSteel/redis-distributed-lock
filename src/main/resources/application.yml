@@ -1,0 +1,10 @@
+server:
+  port: 8088
+
+logging:
+  level:
+    com.lg.redislock: debug
+  pattern:
+    dateformat: MM-dd HH:mm:ss:SSS
+
+
